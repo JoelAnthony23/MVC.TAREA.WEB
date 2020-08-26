@@ -1,5 +1,6 @@
 ﻿body {
-  background-color: #204375; }
+  background-color: #204375;
+  margin: -1px; }
 
 .header-main {
   height: 300px;
@@ -15,7 +16,7 @@ a {
   text-decoration: none; }
 
 .header-body {
-  background-color: #466c98;
+  background-color: #758FB2;
   height: 800px;
   width: 70%;
   color: #ffffff; }
