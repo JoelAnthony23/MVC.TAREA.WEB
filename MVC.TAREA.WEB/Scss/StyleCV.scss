@@ -1,0 +1,49 @@
+﻿$backgroundText-color-Main:#99241d;
+$backgroundText-color-Body: #ffffff;
+
+
+body {
+    background-color: #204375;
+}
+
+.header-main {
+    height: 300px;
+    width: 70%;
+    border-radius: 0px 75px 0px 0px;
+    background-color: #99C1DA;
+
+   
+
+    .img {
+        height: 150px;
+        width: 300px;
+    }
+}
+a {
+    color: $backgroundText-color-Main;
+    text-decoration: none;
+}
+.header-body {
+    background-color: #466c98;
+    height: 800px;
+    width: 70%;
+   color: $backgroundText-color-Body;
+    
+
+    h2 {
+        margin: 10px 0px 0px 15px;
+    }
+
+    p {
+        margin: 15px;
+    }
+
+    #DatosPersonales {
+        margin-bottom: 0px;
+    }
+
+    .perfil {
+        color: red;
+    }
+}
+
